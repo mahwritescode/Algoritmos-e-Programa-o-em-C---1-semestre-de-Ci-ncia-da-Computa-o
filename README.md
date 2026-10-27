@@ -1,7 +1,3 @@
-# Algoritmos-e-Programa-o-em-C---1-semestre-de-Ci-ncia-da-Computa-o
-
-
-
 # Algoritmos e Programação em C
 
 Repositório dedicado aos exercícios e às atividades práticas desenvolvidas na disciplina de Algoritmos e Programação, durante a graduação em Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS).
